@@ -78,6 +78,20 @@ Power BI
 
 ---
 
+## Key Visualizations
+
+### Revenue by Region
+![Revenue by Region](screenshots/revenue_by_region.png)
+
+### State Sales Map
+![State Sales Map](screenshots/state_sales_map.png)
+
+### Customer Segmentation
+![Customer Segmentation](screenshots/customer_segmentation.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+
 ## Power BI Dashboard
 
 An interactive Power BI dashboard was created to visualize:
