@@ -90,7 +90,14 @@ Power BI
 ![Customer Segmentation](screenshots/customer_segmentation.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](screenshots/powerbi_dashboard_1.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](screenshots/powerbi_dashboard_2.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](screenshots/powerbi_dashboard_3.png)
+
 
 ## Power BI Dashboard
 
