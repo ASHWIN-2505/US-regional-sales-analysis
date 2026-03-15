@@ -91,4 +91,3 @@ This dashboard enables quick identification of high-performing markets and custo
 
 ---
 
-## Project Structure
